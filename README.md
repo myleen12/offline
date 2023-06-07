@@ -38,8 +38,10 @@ THEN I should have proper build scripts for a webpack application
 
 
 ## Deployed Github link
- https://myleen12.github.io/offline/
+ - https://myleen12.github.io/offline/
 
 ## Deployed Heroku Link
-https://offlinee.herokuapp.com/
+- https://offlinee.herokuapp.com/
 
+## Github link
+ https://github.com/myleen12/offline
