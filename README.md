@@ -43,5 +43,3 @@ THEN I should have proper build scripts for a webpack application
 ## Deployed Heroku Link
 https://offlinee.herokuapp.com/
 
-## Video WalkThrough
-https://drive.google.com/file/d/1viblsvjwNPDlneJw945SotU7SBYDtTku/view
